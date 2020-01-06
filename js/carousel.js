@@ -1,5 +1,5 @@
 $('#multiCarousel').carousel({
-    interval: 9000
+    interval: 6000
 })
 $('.carousel .carousel-item').each(function () {
     var next = $(this).next();
